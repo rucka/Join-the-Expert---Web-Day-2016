@@ -2,8 +2,8 @@
 Here both the slides and demos of my session "Typescript: A stitch in time saves nine" @UgiDotNet - [Join the Expert Web Day 2016]( http://www.ugidotnet.org/eventi/48/Join-the-Expert--Web-Day).
 
 ## System requirements
-In order to run the web project you need Visual Studio 2015: open the project with the IDE, build and run.
-If not, you can try each demo just following this steps:
+In order to run the demos you need Visual Studio 2015: open one of the projects with the IDE, build and run.
+In alternative, you can try each demo just following this steps:
 - Convert Views/Home/Hello.aspx, Views/Customer/Register.aspx Views/Customer/Completed.aspx pages to html (follow [this guide](https://www.quora.com/How-do-I-convert-ASP-NET-razor-view-pages-cshtml-into-plain-html-view-pages-in-Entity-Framework-ADO-NET-data-model) if you need).
 - Install [Typescript compiler locally](https://www.typescriptlang.org/index.html#download-links) (just one time).
 - Compile the typescript files with the tsc compiler.
