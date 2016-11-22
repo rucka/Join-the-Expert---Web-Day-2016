@@ -24,10 +24,6 @@
 ![fit left original](assets/introducing.png)
 ![right original](assets/andershasaustinpowers.jpg)
 
-
-^ 
-A source-to-source compiler, transcompiler or transpiler is a type of compiler that takes the source code of a program written in one programming language as its input and produces the equivalent source code in another programming language
-
 ---
 
 #? == Typescript
@@ -359,7 +355,6 @@ x = {a: 1, c: "three"}; // 	Error:
 ###the right job
 
 ![](assets/languages.jpeg)
-
 
 ---
 
